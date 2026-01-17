@@ -6,7 +6,7 @@
 /ecommerce*
 /extensions*
 /forceproject*
-/google*
+!/google*
 /lead
 /multicompany*
 /ndf*
