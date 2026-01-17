@@ -94,3 +94,7 @@ phpstan_custom.neon
 
 # ignore .htaccess files
 .htaccess
+
+# ignore config documents
+/htdocs/conf
+/documents
