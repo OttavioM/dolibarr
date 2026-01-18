@@ -1,3 +1,8 @@
-!.gitignore
+/main.inc.php
+/main.inc.php.sav
+/main.inc.php.old
+/master.inc.php
+/master.inc.php.sav
+/master.inc.php.old!.gitignore
 !README.md
 !index.html
