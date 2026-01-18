@@ -1,4 +1,3 @@
-.
 /main.inc.php
 /main.inc.php.sav
 /main.inc.php.old
@@ -7,9 +6,3 @@
 /master.inc.php.old!.gitignore
 !README.md
 !index.html
-/autoaddline/*
-/autoattachfile/*
-/ecommerceng/*
-/forceproject/*
-/kimios/*
-/notes/*
