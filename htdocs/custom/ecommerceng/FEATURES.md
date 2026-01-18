@@ -1,0 +1,2 @@
+- Ajout de l'affichage de la derniere date de mise a jour sur l'écran de synchronisation du site (avec la possibilité de la supprimé)
+- Ajout d'une option pour forcer la mise a jour des produits et tiers/contacts depuis la synchro manuelle d'un site
