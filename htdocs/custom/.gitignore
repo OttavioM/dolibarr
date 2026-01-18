@@ -6,4 +6,7 @@
 /master.inc.php.old!.gitignore
 !README.md
 !index.html
-autoaddline
+/autoaddline/*
+/autoattachfile/*
+/ecommerceng/*
+/forceproject/*
